@@ -1,0 +1,6 @@
+<br>
+<span style="font-family: Calibri; font-size: 11pt; color: rgb(102, 0, 0);">%%displayname%%</span><br>
+<span style="font-family: Calibri; font-size: 11pt; color: rgb(102, 0, 0);">%%title%%</span><br>
+<br>
+<br>
+<span style="color: rgb(102, 0, 0); font-family: Calibri; font-size: 11pt; text-decoration: none;">Ph:&nbsp;%%phonenumber%%&nbsp;&nbsp;|&nbsp;&nbsp;Cl:&nbsp;%%mobilephone%%
